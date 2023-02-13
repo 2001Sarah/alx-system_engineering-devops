@@ -1,1 +1,1 @@
-task where am i?
+Write a script that changes the working directory to the user’s home director
